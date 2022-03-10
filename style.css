@@ -16,7 +16,7 @@ body{
     background-size: cover;
 }
 .container{
-    min-width: 80vh;
+    min-width: 10vh;
     margin: auto;
     width:90%;
 }
